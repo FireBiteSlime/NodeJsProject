@@ -1,1 +1,2 @@
 # NodeJsProject
+'run = node main
